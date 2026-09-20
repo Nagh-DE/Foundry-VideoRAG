@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+.env.generated
+.venv
+.venv-api
+ui/node_modules
+artifacts
+samples
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache

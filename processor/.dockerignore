@@ -1,0 +1,12 @@
+.venv
+.git
+.gitignore
+.env
+.env.generated
+artifacts
+samples
+__pycache__
+*.pyc
+*.pyo
+*.log
+agent-output.json
